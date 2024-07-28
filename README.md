@@ -1,3 +1,20 @@
+<style>
+/* Dark mode CSS */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #bb86fc;
+}
+
+header, footer, nav, .content {
+  background-color: #1f1f1f;
+  border-color: #333;
+}
+</style>
+
 ### Hi there 👋
 
 #### Briefly I am:
